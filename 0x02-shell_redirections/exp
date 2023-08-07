@@ -1,0 +1,16 @@
+total 48
+drwxr-xr-x 2 panashe panashe 4096 Aug  7 22:25 .
+drwxr-xr-x 6 panashe panashe 4096 Aug  7 21:43 ..
+-rwxr-xr-x 1 panashe panashe   32 Aug  7 21:59 0-hello_world
+-rwxr-xr-x 1 panashe panashe   28 Aug  7 21:48 1-confused_smiley
+-rwxr-xr-x 1 panashe panashe   28 Aug  7 21:50 2-hellofile
+-rwxr-xr-x 1 panashe panashe   39 Aug  7 21:52 3-twofiles
+-rwxr-xr-x 1 panashe panashe   29 Aug  7 21:54 4-lastlines
+-rwxr-xr-x 1 panashe panashe   29 Aug  7 21:55 5-firstlines
+-rw-r--r-- 1 panashe panashe   40 Aug  7 22:13 6-third_line
+-rw-r--r-- 1 panashe panashe   73 Aug  7 22:18 7-file
+-rw-r--r-- 1 panashe panashe   36 Aug  7 22:21 8-cwd_state
+-rw-r--r-- 1 panashe panashe   49 Aug  7 21:45 README.md
+-rw-r--r-- 1 panashe panashe    0 Aug  7 22:25 exp
+-rw-r--r-- 1 panashe panashe    0 Aug  7 22:25 exp
+-rw-r--r-- 1 panashe panashe    0 Aug  7 22:25 exp
